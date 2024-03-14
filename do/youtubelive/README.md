@@ -1,5 +1,7 @@
 # youtubelive
 
+API to look at your Youtube channel and always return the latest live embed code. You can use this function as an embed code which never changes and always points to the latest live feed.
+
 ## Usage
 
 When deploying to Digital Ocean, set the environmental variable `OAUTH_TOKEN` and `OAUTH_SECRET` for your Google account.

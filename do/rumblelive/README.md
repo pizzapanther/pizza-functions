@@ -1,5 +1,7 @@
 # rumblelive
 
+API to look at your Rumble channel and always return the latest live embed code. You can use this function as an embed code which never changes and always points to the latest live feed.
+
 ## Usage
 
 When deploying to Digital Ocean, set the environmental variable `RUMBLE_URL` to one of the URLs at https://rumble.com/account/livestream-api.
